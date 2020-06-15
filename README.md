@@ -1,4 +1,4 @@
-## BLOOD DONATION APPLICATION
+# BLOOD DONATION APPLICATION
 
 The Blood Donation Application is a CRUD (create, read, update, delete) web application, that allows an administrator to fill in the information of people willing to donate blood, get list of all the people that have signed up to donate blood, modify information of various people and also delete their information when necessary.
 
